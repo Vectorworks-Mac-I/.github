@@ -1,7 +1,7 @@
 # Vectorworks Mac
 
 <p align="center">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/vectorworks-y6drxf04hlq6jkwuw6f1ec.png/vectorworks-e707hvimyhuajo7z8qeob4.png?_a=DATAiZAAZAA0" width="150" alt="Vectorworks icon"/>
+  <img src="https://forum.vectorworks.net/uploads/monthly_2021_09/logo_rosso_corsa.png.12505a66e5ae233f00aa83704b88af14.png" width="150" alt="Vectorworks icon"/>
 </p>
 
 <div align="center">
@@ -57,7 +57,7 @@ The <a href="#">sheet layer and viewport system</a> organizes drawing sheets wit
 ---
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/284384/m/vectorworks-screenshot.png?v=1605813988" alt="Vectorworks screenshot 2"/>
+  <img src="https://static.macupdate.com/screenshots/284387/m/vectorworks-screenshot.png?v=1605813997" alt="Vectorworks screenshot 2"/>
 </p>
 
 ## 🌐 Where It's Useful & Additional Information
