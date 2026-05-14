@@ -57,7 +57,7 @@ The <a href="#">sheet layer and viewport system</a> organizes drawing sheets wit
 ---
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/284387/m/vectorworks-screenshot.png?v=1605813997" alt="Vectorworks screenshot 2"/>
+  <img src="https://res.cloudinary.com/vectorworks/image/upload/q_auto/f_auto/article/blog/quick-start-guide-new-enscape-for-mac-and-vectorworks/Enscape_Asset_Library_Icon_copy.jpg" alt="Vectorworks screenshot 2"/>
 </p>
 
 ## 🌐 Where It's Useful & Additional Information
